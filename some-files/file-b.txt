@@ -2,6 +2,8 @@ some changes on the base branch 1
 
 some changes on the daisy chain branch off of base branch 1
 
+some changes on the daisy chain branch off of base branch 2 - that aren't adjacent to the error code.
+
 some changes on the base branch 2 that don't contain any errors
 
 some changes on the base branch 2 FIXED
