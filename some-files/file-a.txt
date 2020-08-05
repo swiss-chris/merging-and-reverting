@@ -8,4 +8,4 @@ some changes on the base branch 2 FIXED
 
 some changes on the daisy chain branch off of base branch 2
 
-some changes on the base branch 3 WITH ERRORS
+some changes on the base branch 3 FIXED
