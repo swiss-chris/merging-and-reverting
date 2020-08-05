@@ -4,6 +4,6 @@ some changes on the daisy chain branch off of base branch 1
 
 some changes on the base branch 2 that don't contain any errors
 
-some changes on the base branch 2 CONTAINING AN ERROR
+some changes on the base branch 2 FIXED
 
 some changes on the daisy chain branch off of base branch 2
